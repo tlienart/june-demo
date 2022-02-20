@@ -1,53 +1,51 @@
 +++
 
-prepath = "coder-xranklin-demo"
+prepath = "june-demo"
 
 # Layout information
 
-author = "John Doe"
-author_blurb = "Full Stack DevOps<br>Magician<br>"
-author_short = "johndoe"
-
-meta_descr = "John Doe's personal website"
-meta_kw = "blog,developer,personal"
-
-tw_card = "summary"
-tw_title = author_short
-tw_descr = meta_descr
-
-website_url = "https://tlienart.github.io/coder-template/"
-
-footer_notice = """
-  © 2022 $author · Powered by
-    <a href="https://franklin.jl">Franklin.jl</a> &
-    <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>."""
-
-nav_items = [
-  "About" => "/about/",
-  "Blog"  => "/posts/",
-  "Projects" => "/projects/",
-  "Contact me" => "/contact/"
-]
-
-# Social URLs for the home page
-
-social_github   = "https://github.com/johndoe/"
-social_gitlab   = "https://gitlab.com/johndoe/"
-social_twitter  = "https://twitter.com/johndoe/"
-social_linkedin = "https://www.linkedin.com/in/johndoe/"
-social_medium   = "https://medium.com/@johndoe"
-rss_link        = "https://myhugosite.com/index.xml"
-
 # Layout / Franklin specifics
 
-content_tag = ""
+content_tag  = ""
 heading_link = false
-heading_post = """
-  <a class="heading-link" href="#HEADING_ID">
-    <i class="fa fa-link" aria-hidden="true"></i>
-  </a>
-  """
 fn_title = ""
-+++
 
-\newcommand{\html}[1]{~~~#1~~~}
+###########################################################
+# LANDING PAGE / HERO
+landing_top_text = """
+  Casserole chilies ghost pepper salty blood orange
+  """
+landing_title = """
+  Strawberry spinach salad Thai dragon pepper lemon
+  """
+landing_button_left = """
+  See Our Works
+  """
+landing_button_right = """
+  Connect with Us
+  """
+# LANDING PAGE / COUNTER
+landing_counter_title = """
+  Thai basil tacos farro platter
+  """
+counter_1_title = "Happy Clients"
+counter_1_number = "250+"
+counter_2_title = "Projects Completed"
+counter_2_number = "100+"
+counter_3_title = "Cups of coffee"
+counter_3_number = "350+"
+counter_4_title = "Telephone Talks"
+counter_4_number = "775+"
+
+# LANDING PAGE / RECENT
+
+###########################################################
+# ABOUT
+about_box = """
+  Cranberry spritzer tomato and basil tahini drizzle sandwiches double dark chocolate
+  """
+about_blurb = """
+  Zesty tofu pad thai strawberries matcha overflowing udon noodles falafel bites tofu spiced pumpkin chili cookies walnut mushroom tart açai maple orange tempeh black beans hearts of palm. Bolivian rainbow pepper a delicious meal.
+  """
+
++++
