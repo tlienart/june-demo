@@ -59,3 +59,7 @@
 .site-footer {
   background: var(--brique);
 }
+
+.site-about-header {
+  text-align: center;
+}
