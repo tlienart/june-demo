@@ -1,0 +1,61 @@
+:root {
+  --creme:   #F1D6BF;
+  --saumon:  #FFA48E;
+  --hamster: #F1A37C;
+  --brique:  #CF6F64;
+}
+
+.navbar-brand img {
+  max-width: 100px !important;
+}
+
+.site-hero {
+  background-color: #fff;
+}
+
+.site-navigation {
+  background-color: var(--brique);
+}
+
+.site-navigation .nav-item .nav-link {
+  color: #fff;
+}
+
+.btn-primary {
+  background: var(--brique);
+}
+.btn-primary:hover {
+  background: var(--brique);
+}
+.btn-secondary {
+  background: var(--brique);
+}
+.btn-secondary:hover {
+  background: var(--brique);
+}
+
+.site-hero-content p {
+  font-size: 1.25em;
+}
+
+.site-hero-content p a {
+  color: var(--brique);
+}
+
+.site-counter {
+  background: none;
+}
+
+.site-counter h2 {
+  color: #9d9ea5;
+}
+
+.site-counter p {
+  color: #9d9ea5;
+  font-size: 1.25em;
+
+}
+
+.site-footer {
+  background: var(--brique);
+}
