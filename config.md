@@ -72,7 +72,11 @@ about_box = """
   Cranberry spritzer tomato and basil tahini drizzle sandwiches double dark chocolate
   """
 about_blurb = """
-  Zesty tofu pad thai strawberries matcha overflowing udon noodles falafel bites tofu spiced pumpkin chili cookies walnut mushroom tart açai maple orange tempeh black beans hearts of palm. Bolivian rainbow pepper a delicious meal.
+  Maman de 2 enfants que j’ai allaités, l’idée de June m’est venue alors que je me regardais dans le miroir, en soutien-gorge d’allaitement, quand ma grande avait 4 mois.
+
+  Mon corps était trop grand. J’avais mal au dos. J’étais fatiguée. J’en étais à ma 3e paire de coussinets lavables de la journée. Cela faisait des mois que je ne pouvais plus mettre ni mes vêtements préférés, ni ma lingerie préférée. Et cerise sur la tarte au sucre: mon soutien-gorge était vraiment moche.
+
+  Et là, j’ai eu une idée.
   """
 
 +++
